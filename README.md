@@ -2,7 +2,7 @@
 
 ## [js基础知识](./js-note/js基础知识.md)
 ## [Math方法](./js-note/Math方法.md)
-## [标识符,作用域，预解析，闭包](./js-note/标识符,作用域，预解析，闭包.md)
+## [标识符,作用域，预解析，闭包](./js-note/标识符-作用域-预解析-闭包.md)
 ## [定时器](./js-note/定时器.md)
 ## [数组的方法](./js-note/数组的方法.md)
 ## [字符串方法](./js-note/字符串方法.md)
@@ -18,6 +18,6 @@
 ## [Node.js](./js-note/Node.js.md)
 ## [promise](./js-note/promise.md)
 ## [React](./js-note/React.md)
-## [vue 路由](./js-note/vue 路由.md)
+## [vue路由](./js-note/vue路由.md)
 ## [本地服务建立](./js-note/本地服务建立.md)
 ## [饿了么element组件](./js-note/饿了么element组件.md)
