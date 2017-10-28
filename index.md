@@ -21,6 +21,7 @@
 #### [vue路由](./js-note/vue路由.md)
 #### [本地服务建立](./js-note/本地服务建立.md)
 #### [饿了么element组件](./js-note/饿了么element组件.md)
+#### [面试题集合](./js-note/面试题集合.md)
 ---
 # Vue知识总结
 
